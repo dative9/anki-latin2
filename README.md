@@ -2,7 +2,7 @@ info for last ever update to the OCR GCSE deck... because i’m too lazy to deal
 <hr>
 
 <h2>
-  N.B. yes, this is an updated reupload of the <i></i>OCR GCSE Latin vocabulary 2023</i> shared deck over at https://ankiweb.net/shared/info/1463821810. Neither decks will continue to be updated on ankiweb
+  N.B. yes, this is an updated reupload of the <i></i>OCR GCSE Latin vocabulary 2023</i> shared deck over at https://ankiweb.net/shared/info/1463821810. Neither decks will continue to be updated on ankiweb.
 </h2>
 <hr>
 
