@@ -1,0 +1,61 @@
+<div class="c2">
+<header class="deckhead">
+<p class="package">
+ <i style ="color:lightblue;">　{{Deck}}　　　　　　</i>　　　　　　　　　　
+   <b class = "subd">　　</b>　　　
+</p class="package">
+</header class="deckhead">
+<div id="cardd">
+<div id="encls">
+{{#(show title?)}}
+{{#TITLE/PROMPT HEADER}}
+<h1 style="margin-left: 1vw">
+{{TITLE/PROMPT HEADER}}
+</h1>
+<hr style="margin-right: 8.5vw;">
+<br>
+{{/TITLE/PROMPT HEADER}}
+{{^TITLE/PROMPT HEADER}}
+{{/TITLE/PROMPT HEADER}}
+{{/(show title?)}}
+{{^(show title?)}}
+{{/(show title?)}}
+<div id="clozedd" style="margin-left: 2.5vw; margin-top:0.75em;">
+{{type:cloze:Front}}
+{{cloze:Front}}
+</div>
+</div id="clozedd"><br>
+{{#Back}}<hr><br><br>
+<div class="beans">
+{{Back}}
+</div>
+<br><br><hr><br>
+{{/Back}}
+{{#HINT/SUPPORTING INFO}}
+<div id="hinder">
+<p class="slanted sl-stuck" >
+keep it sticking
+  <b class="fastscooter"> ☟</b>
+ !</p><div class="hins">
+{{HINT/SUPPORTING INFO}}
+</div class="hins"></div id="hinder"><br>
+{{/HINT/SUPPORTING INFO}}
+{{#ref.title}}
+<aside style="font-size: 0.95em;">　</aside>
+<div id="ref">
+<aside style="font-size: 0.000000em;">　</aside>
+<h3 style="font-size:135%;text-indent:0.5em;">
+{{ref.title}}
+</h3></b>
+{{/ref.title}}
+{{#ref.author}}
+<aside style="text-indent:2.5em;">{{ref.author}} 
+{{/ref.author}}
+{{#ref.chapter&pg}}
+<br><b>
+<aside style="margin-right:1em;text-align:right;">{{ref.chapter&pg}}</b></aside>
+{{/ref.chapter&pg}}
+</div id="ref">
+<p style="font-size: 0.25em;">　</p></div id="ref">
+<p style="font-size: 0.3em;">　</p>
+</div id="encls"></div id="cardd">
