@@ -24,8 +24,12 @@ As the title says - <b>complete OCR GCSE vocabulary</b> list, with a few extra w
 <br><br>
 in order to fully utilise these cards as intended, you'll also need the multiple type cloze addon - paste the following code into [menu bar] > Tools > Add-ons > Get add-ons... <br>
 <h6>1933645497</h5>
-if you're on anki 2.1.60+, once downloaded, go back into the add-ons menu, select your newly added addon, press 'config' & set     "enable-new-filter": true," (1st line of config code in late Aug 2023)
-if you're running anki ≤2.1.59, go into Browse, search for "note:\*\*\*Cloze type: ring enclosed (REF.)", click cards, find & replace "{{fill-blanks:cloze:Front}}" with "{{type:cloze:Front}}" on the Front. on the Back, paste (replace) the contents of the "59ctype" file, also in this repo<br>
+
+<h5>if you're on anki 2.1.60+:</h5>
+    once downloaded, go back into the add-ons menu, select your newly added addon, press 'config' & set     "enable-new-filter": true," (1st line of config code in late Aug 2023) <br>
+    
+<h5>if you're running anki ≤2.1.59 (or don't need to use AnkiDroid):</h5>
+    go into Browse, search for "note:\*\*\*Cloze type: ring enclosed (REF.)", click cards, find & replace "{{fill-blanks:cloze:Front}}" with "{{type:cloze:Front}}" on the Front side. on the Back, paste (replace) the contents of the "59ctype" file, also in this repo<br>
 
 <hr>
 <i> By <a href="mailto:20yangh@shrewsbury.org.uk">20yangh@shrewsbury.org.uk</a>, 2023.</i>
