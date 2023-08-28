@@ -1,4 +1,4 @@
-info for last ever update to the OCR GCSE deck... because i’m too lazy to deal w HTML on anki’s upload page too
+info for last ever update to my OCR GCSE deck... because i’m too lazy to deal w HTML on anki’s upload page too
 <hr>
 
 <h2>
