@@ -89,4 +89,4 @@ English definition <br>
 
 
 <hr>
-<i>- per maior aspera ad astra -</i>
+<i>- per </i><b>maior</b><i> aspera ad astra -</i>
